@@ -1,0 +1,1 @@
+# Docker-php-8.2-apache-et-phpmyadmin
